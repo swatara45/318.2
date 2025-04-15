@@ -1,4 +1,4 @@
-ssignment; do not worry about CSS or design unless you have adequate time to do so.
+Assignment; do not worry about CSS or design unless you have adequate time to do so.
 Part 1: Routes, Templates, and Views
 Create a view engine that allows you to customize at least three portions of your views. Alternatively, research and use one of the following view engines:
 Pug
